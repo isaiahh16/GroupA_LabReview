@@ -1,4 +1,4 @@
-![Phase ine of the mcu](marvel_banner.jpg)
+![Phase ine of the mcu](downloads/images/marvel_banner.png)
 
 
 # All about the MCU
