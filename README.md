@@ -1,6 +1,5 @@
-# Lab Review - Group A
-Working through some common issues with git
-Reviewing how workflow breaks and how to fix it
+![Phase ine of the mcu](marvel_banner.jpg)
 
-## chnaging more stuff to break it
-breaking and fixing workflow!
+
+# All about the MCU
+A retrospective on phase 1 of the MCU
