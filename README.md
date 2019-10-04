@@ -2,7 +2,7 @@
 
 
 # All about the MCU
-A retrospective on phase 1 of the MCU. visit [marvel.com](https://www.marvel.com/)for more info.
+A retrospective on phase 1 of the MCU. visit [marvel.com](https://www.marvel.com/) for more info.
 
 ## Requirements
 Not a lot - youll need git instralled locally, as well as a preprocessor like [sass](https://sass-lang.com) for css compilation. a good code editor helps too
@@ -13,7 +13,7 @@ Not a lot - youll need git instralled locally, as well as a preprocessor like [s
 3. javascript
 
 ## Installation, etc
-CD to the location of your choice and then git clone. hack away
+CD to the location of your choice and then `git clone`. hack away
 
 ## Licence
 MIT
