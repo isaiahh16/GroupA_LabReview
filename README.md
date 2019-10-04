@@ -2,5 +2,5 @@
 Working through some common issues with git
 Reviewing how workflow breaks and how to fix it
 
-# this is what you need to make the project work
-some specs go here
+## chnaging more stuff to break it
+breaking and fixing workflow!
